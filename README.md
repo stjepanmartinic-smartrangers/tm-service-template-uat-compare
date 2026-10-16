@@ -1,2 +1,7 @@
-# tm-service-template-uat-compare
-Public read-only HTML: TailorMade Service Template vs IntrepidUAT (16 Oct 2026). Compare only — no org writes.
+# Service Template vs IntrepidUAT
+
+Read-only compare of Kaptio Service Template CSV names and price categories against IntrepidUAT. No org writes.
+
+**Open the report:** https://stjepanmartinic-smartrangers.github.io/tm-service-template-uat-compare/
+
+Snapshot: 16 Oct 2026. Unique services: 106 (53 on UAT / 53 missing).
